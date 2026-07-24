@@ -2,7 +2,12 @@
 
 ## 关于我
 
-Java开发背景，2026年9月入读港教大应用数据科学专业。
+Java开发背景 | 项目管理经验 | 港教大应用数据科学硕士（学习中）
+
+🔭 正在学习：机器学习、数据挖掘
+
+🌱 目标：转型数据科学家
+
 这里记录我的学习项目。
 
 ---
@@ -19,9 +24,9 @@ Java开发背景，2026年9月入读港教大应用数据科学专业。
 
 ## 学习路线
 
-- [x] Python 基础
-- [x] Pandas 数据处理
-- [x] 机器学习入门（sklearn）
+- [x] Python 基础 ![Python](https://img.shields.io/badge/Python-3.10-blue)
+- [x] Pandas 数据处理 ![Pandas](https://img.shields.io/badge/Pandas-2.0-green)
+- [x] 机器学习入门（sklearn） ![scikit-learn](https://img.shields.io/badge/sklearn-1.3-orange)
 - [ ] 深度学习
 - [ ] 实际项目实战
 
