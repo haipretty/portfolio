@@ -29,10 +29,10 @@ Java 开发背景 | 项目管理经验 | 港教大应用数据科学硕士（202
 | 项目 | 技术栈 | 描述 |
 | --- | --- | --- |
 | [学生成绩管理项目](https://github.com/haipretty/student_score_management) | Python, Pandas | 数据清洗、统计、筛选 |
-| [超市销售分析项目](https://github.com/haipretty/supermarket_sale_management) | Python, NumPy, Pandas | 销售数据多维度分析 |
+| [超市销售数据分析项目](https://github.com/haipretty/supermarket_sale_management) | Python, NumPy, Pandas | 销售数据多维度分析 |
 | [电信客户流失预测项目](https://github.com/haipretty/customer_churn_prediction) | Python, sklearn | Pipeline 建模、逻辑回归 vs 随机森林、特征重要性分析 |
 | [电商数据库设计项目](https://github.com/haipretty/e_commercial_database_design) | MySQL | 7 表结构设计、约束设计、10 道分难度业务查询 |
-| [零售销售可视化分析项目](https://github.com/haipretty/retail_sale_data_visualization) | Python, Matplotlib, Seaborn, Plotly | KPI / 趋势 / 构成 / 分布 / 关联 / 热力矩阵 6 大模块 |
+| [零售数据可视化项目](https://github.com/haipretty/retail_sale_data_visualization) | Python, Matplotlib, Seaborn, Plotly | KPI / 趋势 / 构成 / 分布 / 关联 / 热力矩阵 6 大模块 |
 
 ---
 
