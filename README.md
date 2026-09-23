@@ -36,6 +36,15 @@ Java 开发背景 | 项目管理经验 | 港教大应用数据科学硕士（202
 
 ---
 
+## 微信小程序项目
+
+| 项目 | 技术栈 | 状态 | 描述 |
+| --- | --- | --- | --- |
+| [日常头疼记录本](https://github.com/haipretty/headache-tracker) | 微信小程序 + 云开发 | ✅ 已上线 | 偏头痛发作记录工具，零登录零授权，结构化录入 + 记录管理 |
+| [工作室预约小程序](https://github.com/haipretty/studio-booking) | 微信小程序 + 云开发 + CloudPay | ✅ v1.0 完成 | 会议室搜索、事务防并发、在线支付退款、管理后台 |
+
+---
+
 ## 专项练习（含参考答案）
 
 系统学习期间整理的专项练习题，完整记录见 [my_project](https://github.com/haipretty/my_project) 仓库：
